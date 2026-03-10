@@ -1,0 +1,6 @@
+GIT: VCS(Version Control System)
+
+1.2.3 => 1.2.4  => Blockers  => rvert the changes  => Take the backup from the previos version
+
+GIT(TO Manage the source push or pull from the GITHUB) VS GITHUB(To store the source file in the certain cloude space)
+
