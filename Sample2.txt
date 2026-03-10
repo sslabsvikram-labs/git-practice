@@ -1,0 +1,10 @@
+Hello User
+
+VCS
+Staging Area and commits and Pushes
+Branches
+PR's(Pull Requests)
+
+
+1.Local Directory(current local changes)   =>  add ====>  2.Staging Area    ==>   3.Local Repository
+4. Remote Repository
